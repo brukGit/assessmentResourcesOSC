@@ -1,0 +1,7 @@
+,id,value,aggregate,longitude,latitude,region,adminregion,lendingType,incomeLevel,capitalCity
+0,ETH,Ethiopia,False,38.7468,9.02274,SSF,SSA,IDX,LIC,Addis Ababa
+1,UZB,Uzbekistan,False,69.269,41.3052,ECS,ECA,IDB,LMC,Tashkent
+2,ARG,Argentina,False,-58.4173,-34.6118,LCN,LAC,IBD,UMC,Buenos Aires
+3,DZA,Algeria,False,3.05097,36.7397,MEA,MNA,IBD,UMC,Algiers
+4,VNM,Viet Nam,False,105.825,21.0069,EAS,EAP,IBD,LMC,Hanoi
+5,TZA,Tanzania,False,35.7382,-6.17486,SSF,SSA,IDX,LMC,Dodoma
